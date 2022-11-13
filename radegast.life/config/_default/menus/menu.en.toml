@@ -1,7 +1,7 @@
 #  menu items
 [[main]]
   name = "Blog"
-  weight = 5
+  weight = 1
   url = "blog/"
 
 [[main]]
@@ -10,16 +10,16 @@
   url = "docs/"
 
 [[main]]
-  name = "Tutorials"
-  weight = 2
-  url = "tutorials/"
+  name = "Legal"
+  weight = 5
+  url = "legal/"
 
 [[main]]
-  name = "Example"
+  name = "Download"
   weight = 3
-  url = "https://docs.neuralvibes.com"
+  url = "https://github.com/cinderblocks/radegast/releases"
 
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
+[[main]]
+  name = "Discussion"
+  weight = 4
+  url = "https://github.com/cinderblocks/radegast/discussions"
