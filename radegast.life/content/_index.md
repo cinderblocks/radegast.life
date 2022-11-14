@@ -21,6 +21,6 @@ There is a strong focus on accessability and non-3D interaction.
 {{< /column >}}
 
 {{< column >}}
-
+![diy](/images/radegast-snapshot.png)
 {{< /column >}}
 {{< /block >}}
